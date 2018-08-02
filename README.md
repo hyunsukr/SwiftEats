@@ -11,4 +11,4 @@ This project can be used for all companies and food places if you maniuplate the
 - Big sql tables that can be broken down and joined
 
 ## Running
-This application can be downloaded and ran by doing npm install if you will like the nodemailer and formiable npm packages. If those packages are of no need you can simply write index.js which will start your application on your local address port 1234 (ex 127.0.0.1:1234). This application was tested on Unix and does work on any linux machine. Possibly on windos also. 
+This application can be downloaded and ran by doing npm install if you will like the nodemailer and formiable npm packages. If those packages are of no need you can simply write index.js which will start your application on your local address port 1234 (ex 127.0.0.1:1234). This application was tested on Unix and does work on any linux machine. Possibly on windows also. 
